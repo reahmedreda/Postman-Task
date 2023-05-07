@@ -7,9 +7,11 @@
 -------------------------------------------
 ## Basic Requirements : 
 - Create a postman collection that contains automated tests for 2 end points  :
+
+
 	1- GET https://postman-echo.com/basic-auth 
 		This end point validates that the credentials were entered are correct . In order to call this end point you need to set the authentication
-     to basic Auth 
+     		to basic Auth 
 
 		- valid credentials :
 				username = postman
